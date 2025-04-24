@@ -12,32 +12,5 @@ Welcome to my GitHub profile! I'm a creative and detail-oriented software develo
 
 🎧 Fun Fact: I love music, travelling, and experimenting with new experiences
 
-**💻 Tech Stack**
-
-*Languages & Frameworks* 
-• html
-• CSS
-• JavaScript 
-• Java 
-• PHP
-• JavaFX
-
-*Design & Tools* 
-• Figma
-• Adobe Illustrator 
-• Canva
-• WordPress 
-• Bootstrap 
-• TailwindCSS
-
-*Databases & Cloud* 
-• MySQL
-
-*Other Tools & Platforms*
-• Arduino 
-• Apache 
-• Apache Maven 
-• PowerShell
-
 
 
