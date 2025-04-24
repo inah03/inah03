@@ -5,7 +5,10 @@ Welcome to my GitHub profile! I'm a creative and detail-oriented software develo
 *About Me*
 
 🔭 Current Projects: Focused on web development, UI/UX design, video editing, photo editing, logo design and performance optimization
+
 👥 Collaboration: Always open to exciting projects and creative partnerships
+
 📱 Contact Me: hirushigunaratne.dev@gmail.com OR hirushigunaratne.astrea@gmail.com
+
 🎧 Fun Fact: I love music, travelling, and experimenting with new experiences
 
