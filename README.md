@@ -12,3 +12,4 @@ Welcome to my GitHub profile! I'm a creative and detail-oriented software develo
 
 🎧 Fun Fact: I love music, travelling, and experimenting with new experiences
 
+
